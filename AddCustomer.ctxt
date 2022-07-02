@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=AddCustomer
+comment0.text=\r\n\ Click\ nbfs\://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt\ to\ change\ this\ license\r\n\ Click\ nbfs\://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java\ to\ edit\ this\ template\r\n
+comment1.params=context
+comment1.target=AddCustomer(SelfCheckout)
+comment1.text=\r\n\ Creates\ new\ form\ AddCustomer\r\n\ @param\ context\r\n
+comment2.params=
+comment2.target=void\ initComponents()
+comment2.text=\r\n\ This\ method\ is\ called\ from\ within\ the\ constructor\ to\ initialize\ the\ form.\r\n\ WARNING\:\ Do\ NOT\ modify\ this\ code.\ The\ content\ of\ this\ method\ is\ always\r\n\ regenerated\ by\ the\ Form\ Editor.\r\n
+comment3.params=columnIndex
+comment3.target=java.lang.Class\ getColumnClass(int)
+comment4.params=evt
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=evt
+comment5.target=void\ jButton1ActionPerformed(java.awt.event.ActionEvent)
+numComments=6
