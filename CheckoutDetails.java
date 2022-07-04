@@ -9,7 +9,7 @@ import javax.swing.table.DefaultTableModel;
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  */
 
-//GUI components malas explain, pepandai la
+//GUI component
 public class CheckoutDetails extends javax.swing.JFrame {
 
     /**
