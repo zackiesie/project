@@ -22,7 +22,7 @@ public class CheckOutSystem {
 
         int current_counter = readFile("MOCK_DATA.csv"); 
         /** read file kalau takde file dia akan error tapi program masih function lagi,tinggal add customer
-        *   jangan tanya aku cara nak add atau read file baru, aku tak tahu
+        * 
         *
         */
        
